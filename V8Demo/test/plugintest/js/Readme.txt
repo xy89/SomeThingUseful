@@ -1,0 +1,1 @@
+//put config file and js file  in same directory.

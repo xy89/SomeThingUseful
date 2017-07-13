@@ -1,0 +1,10 @@
+{
+  "processors": [
+    {
+      "processor": "map.js"
+    },
+    {
+      "processor": "phone.js"
+    }
+  ]
+}
